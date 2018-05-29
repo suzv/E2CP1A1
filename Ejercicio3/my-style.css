@@ -1,0 +1,87 @@
+
+  .elem {
+    height: 250px;
+    width: 400px;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+  }
+  .flag1 {
+    background-color: red;
+  }
+  .flag1b {
+    height: 100px;
+    width: 400px;
+    background-color: yellow;
+    margin-top: 75px
+  }
+  #esp {
+    margin-top: 100px;
+  }
+
+  .flag2 {
+      background-color: red;
+      margin-left: 450px;
+      margin-top: -250px
+  }
+  .flag2b {
+    background-color: white;
+    height: 40px;
+    width: 400px;
+    margin-top: 110px
+  }
+  .flag2c {
+    background-color: white;
+    height: 250px;
+    width: 40px;
+    margin-top: -150px;
+    margin-left: 100px
+  }
+  #din {
+      margin-top: 20px;
+  }
+
+  .flag3{
+    background-color: red;
+    margin-top: 60px;
+  }
+  .flag3b{
+    background-color: green;
+    height: 83px;
+    width: 300px;
+    margin-left: 100px
+  }
+  .flag3c{
+    background-color: white;
+    height: 83px;
+    width: 300px;
+    margin-left: 100px
+  }
+  .flag3d{
+    background-color: black;
+    height: 84px;
+    width: 300px;
+    margin-left: 100px
+  }
+
+  #emi{
+    margin-top:
+  }
+
+  .flag4{
+    background-color: white;
+    margin-left: 450px;
+    margin-top: -250px
+  }
+  .dot {
+  height: 120px;
+  width: 120px;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 130px;
+  margin-top: 60px
+}
+#jap {
+  margin-top: 80px
+}

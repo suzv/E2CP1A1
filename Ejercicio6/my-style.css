@@ -1,0 +1,17 @@
+
+
+.center {
+
+    margin-top: 0;
+    margin-left: 0;
+    z-index: 0;
+
+
+}
+
+.img {
+
+  margin-top: -220px;
+  margin-left: 290px;
+  z-index: 1;
+}

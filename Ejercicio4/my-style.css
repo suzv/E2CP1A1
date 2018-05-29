@@ -1,0 +1,16 @@
+
+p {
+  padding: 5px;
+
+}
+.box {
+  background-color: #b0ccab;
+  padding: 50px;
+  height: 180px;
+  width: 500px
+}
+
+.paragraph {
+ margin-left: 50px;
+  left: 40px;
+}
